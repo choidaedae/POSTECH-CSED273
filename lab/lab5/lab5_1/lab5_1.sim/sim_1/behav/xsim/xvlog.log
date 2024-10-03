@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/user/Desktop/lab/lab5/lab5_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2458] undeclared symbol xxory_0, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:21]
+INFO: [VRFC 10-2458] undeclared symbol xandy_0, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:22]
+INFO: [VRFC 10-2458] undeclared symbol w_0, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:24]
+INFO: [VRFC 10-2458] undeclared symbol c_1, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:25]
+INFO: [VRFC 10-2458] undeclared symbol xxory_1, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:29]
+INFO: [VRFC 10-2458] undeclared symbol xandy_1, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:30]
+INFO: [VRFC 10-2458] undeclared symbol w_1, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:32]
+INFO: [VRFC 10-2458] undeclared symbol c_2, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:33]
+INFO: [VRFC 10-2458] undeclared symbol xxory_2, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:38]
+INFO: [VRFC 10-2458] undeclared symbol xandy_2, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:39]
+INFO: [VRFC 10-2458] undeclared symbol w_2, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:41]
+INFO: [VRFC 10-2458] undeclared symbol c_3, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:42]
+INFO: [VRFC 10-2458] undeclared symbol xxory_3, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:46]
+INFO: [VRFC 10-2458] undeclared symbol xandy_3, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:47]
+INFO: [VRFC 10-2458] undeclared symbol w_3, assumed default net type wire [C:/Users/user/Desktop/lab/lab5/lab5_1.v:49]
+INFO: [VRFC 10-311] analyzing module arithmeticUnit
+INFO: [VRFC 10-311] analyzing module mux4to1
+INFO: [VRFC 10-311] analyzing module logicUnit
+INFO: [VRFC 10-311] analyzing module mux2to1
+INFO: [VRFC 10-311] analyzing module lab5_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/user/Desktop/lab/lab5/lab5_1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab5_1_tb

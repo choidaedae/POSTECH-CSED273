@@ -1,0 +1,21 @@
+Time resolution is 1 fs
+===================
+  Arithmetic Test  
+===================
+arithmetic_transfer_test
+arithmetic_increment_test
+arithmetic_add_test
+arithmetic_add_increment_test
+arithmetic_1s_complement_subtract_test
+arithmetic_2s_complement_subtract_test
+arithmetic_decrement_test
+arithmetic_decrement_transfer_test
+==============
+  Logic Test  
+==============
+logic_and_test
+logic_or_test
+logic_xor_test
+logic_not_test
+lab5_1: Passed (3072 / 3072) tests.
+$finish called at time : 3072 ps : File "C:/Users/user/Desktop/lab/lab5/lab5_1_tb.v" Line 33
